@@ -5,4 +5,4 @@
 
 ## How to install?
 
-### Via Termux: `gitclone https://github.com/Cyb3rpho3n1x/Admin-F/` 
+### Via Termux: `git clone https://github.com/Cyb3rpho3n1x/Admin-F/` 
