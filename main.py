@@ -48,7 +48,7 @@ try:
     print(Fore.GREEN + "In Collaboration With: " + Fore.RED + " RedFurrFox")
     print(
         Fore.GREEN + "Join Our Group:" + Fore.RED +
-        " Android Hacker PH (https://web.facebook.com/groups/1778790372291663)\n\n"
+        " Android Hacker PH\n\n"
     )
 
     web = input(Fore.BLUE + 'URL: ')
